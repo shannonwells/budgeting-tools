@@ -5,5 +5,5 @@ Need a budget?  Start here.  Download this spreadsheet and fill in the values as
 
 This repository uses .ods for spreadsheet file format, which LibreOffice, Microsoft Office, and Apple's Numbers can read. 
 
-I use LibreOffice as my office suite. It's free as in freedom and free as in free beer.
+I use [LibreOffice](https://www.libreoffice.org/) as my office suite. It's free as in freedom and free as in free beer. It runs on Windows, Mac OS X, Linux, Android, and iOS.
 
