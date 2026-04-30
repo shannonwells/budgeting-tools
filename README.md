@@ -15,6 +15,18 @@ If you do need to provide a credit report and/or get a new line of credit, you j
 
 These "Lock" programs that the credit bureaus make you pay for? A scam.  Freeze your credit report instead.
 
+## A better spending analyzer
+View [csv-transaction-analyzer.md](https://github.com/shannonwells/budgeting-tools/blob/main/csv-transaction-analyzer.md) I developed this skill because:
+- I don't like giving these budgeting companies constant access to my banking and credit accounts
+- I was spending so much time correcting categorization of transactions, managing categories and budgets that it was burdensome and annoying and unhelpful, and in addition I was paying for the privilege.
+
+### How to use it:  
+Follow instructions for adding skills to your chatbot.  OR, upload, or copy and paste this skill directly into your chat, and tell it you are going to upload some CSV files. Almost all financial providers let you easily export 90 days' worth of transactions in just a couple of clicks, so this is something you only need to use quarterly. The good thing is skills like this don't require a highly advanced (that is, expensive) model. Try it with the free version of ChatGPT or other free chatbot.
+
+Once your chatbot has done the analysis for you, you can also ask it questions about your transactions, or ask for further analysis.  You can also customize the skill any way you want.
+
+If you're concerned about privacy of your transactions, use an editor (including a spreadsheet program) on your computer to change names of the vendors in the CSV. You can export a spreadsheet that you've edited back to CSV.
+
 ## Need a budget?  
 
 Start here.  After downloading the spreadsheet, fill in the values as indicated.
@@ -30,3 +42,4 @@ I use [LibreOffice](https://www.libreoffice.org/) as my office suite. It's free 
 NerdWallet has several budget spreadsheets which I haven't looked at and can't vouch for, but they are [free to download](https://www.nerdwallet.com/article/finance/budget-worksheet). Be sure to scan the files with your malware scanner.  This page also lists some popular budgeting methods to try out based on your needs and your personality, such as 50/30/20, zero-based, cash-envelope and pay-yourself-first.
 
 American Consumer Credit Counseling is a non-profit (501)-(c)(3) organization with [information and resources for budgeting](https://www.consumercredit.com/debt-resources-tools/budgeting), and for dealing with debt and finance, including financial calculators, information about college planning, identity theft prevention, retirement, and medical debt.  They also provide some financial counseling and education.
+
