@@ -15,7 +15,7 @@ If you do need to provide a credit report and/or get a new line of credit, you j
 
 These "Lock" programs that the credit bureaus make you pay for? A scam.  Freeze your credit report instead.
 
-## A better spending analyzer
+## Use your AI as a better spending analyzer than popular, paid online budgeting websites.
 View [csv-transaction-analyzer.md](https://github.com/shannonwells/budgeting-tools/blob/main/csv-transaction-analyzer.md) I developed this skill because:
 - I don't like giving these budgeting companies constant access to my banking and credit accounts
 - I was spending so much time correcting categorization of transactions, managing categories and budgets that it was burdensome and annoying and unhelpful, and in addition I was paying for the privilege.
