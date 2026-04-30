@@ -25,7 +25,7 @@ Follow instructions for adding skills to your chatbot.  OR, upload, or copy and 
 
 Once your chatbot has done the analysis for you, you can also ask it questions about your transactions, or ask for further analysis.  You can also customize the skill any way you want.
 
-If you're concerned about privacy of your transactions, use an editor (including a spreadsheet program) on your computer to change names of the vendors in the CSV. You can export a spreadsheet that you've edited back to CSV.
+If you're concerned about privacy of your transactions, use an editor (including a spreadsheet program) on your computer to change names of the vendors in the CSV. You can export a spreadsheet that you've edited back to CSV. If you have doubts, use the spreadsheet to double-check the amounts it reports; it sometimes doesn't get the categories correct, but if you tell the chatbot what mistake it made, it can correct it and regenerate the report for you.
 
 ## Need a budget?  
 
